@@ -21,3 +21,4 @@ jobs:
           ZOTERO_KEY: ${{ secrets.ZOTERO_KEY }}
           ZOTERO_LIBRARY_ID: ${{ secrets.ZOTERO_ID }}
         run: uvx zotero2readwise
+
